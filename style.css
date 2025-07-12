@@ -1,0 +1,40 @@
+button{
+    background-color: red;
+    color: white;
+    font-size: 125%;
+    padding: 10px;
+    border-radius: 12%;
+    border: 2px solid silver;
+}
+body{
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.368);
+}
+form{
+    width: fit-content;
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0px 0px 60px black;
+    border-radius: 12px;
+}
+input{
+    margin: 5px 0;
+    font-size: 20px;
+}
+textarea{
+    font: 1em sans-serif;
+}
+input[type="submit"]{
+    background-color: rgb(145, 255, 0);
+    font-size: 125%;
+    padding: 10px 20px;
+    border-radius: 12%;
+    border: 2px solid silver;
+}
+.ApiList{
+    width: fit-content;
+    margin:auto;
+    text-align: justify;
+}
